@@ -100,7 +100,7 @@ if _name_ == '_main_':
 ## Insert image here
 
 
-![Alt text](image.png)
+![Alt text](<WhatsApp Image 2023-12-29 at 12.43.21 PM-1.jpeg>)
 
 ## MobileRobot Movement Video:
 
